@@ -718,6 +718,10 @@ Please see the documentation for `Expressr::App#use`, which has the same behavio
 
 Please see the documentation for `Expressr::App#use`, which has the same behavior.
 
+Notes
+-----
+
+Expressr is not currently a full implementation of Express.js, and some of its underlying architecture differs from Express.js's. If you see any places where it could be improved or added to, absolutely feel free to submit a PR.
 
 License
 -------
