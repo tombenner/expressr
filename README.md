@@ -7,7 +7,7 @@ Overview
 
 Expressr brings the architecture of Express.js to Ruby. It's a minimal and flexible web application framework that couples the concepts of Express.js and Node.js with the beauty of Ruby.
 
-Expressr runs on top of [Noder](https://github.com/tombenner/noder) (Node.js for Ruby).
+Expressr runs on [Noder](https://github.com/tombenner/noder) (Node.js for Ruby), which runs on [EventMachine](https://github.com/eventmachine/eventmachine).
 
 Quick Start
 -----------
