@@ -77,6 +77,11 @@ Please note that the datastore-related lines in the examples above will block th
 API
 ---
 
+* [App](#expressrapp)
+* [Request](#expressrrequest)
+* [Response](#expressrresponse)
+* [Router](#expressrrouter)
+
 ### Expressr::App
 
 `Expressr::App` lets you create and run web apps.
